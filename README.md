@@ -15,12 +15,10 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift)
-
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
 ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-
 ![Git](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket)
