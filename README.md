@@ -14,6 +14,8 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
