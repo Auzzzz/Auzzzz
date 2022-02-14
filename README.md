@@ -29,7 +29,7 @@
 
 ## Some of my past projects
 ### Futher Web Progamming (![React](https://img.shields.io/badge/-React-black?style=flat&logo=react), ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js), ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express), ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql))
-https://github.com/rmit-fwp-s2-2021/s3544232_A2
+https://github.com/Auzzzz/FWP_A2
 
 The purpose of this application was to allow students to communicate in a safe place, only other students could contribute to a post. Similar to a basic Facebook / Twiiter acount lets you do
 
