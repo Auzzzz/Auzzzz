@@ -1,10 +1,11 @@
 # **Hi I'm Chris**
 
 ## Currently I'm Doing:
-- Finishing up with my degree in Information technology at RMIT.
+- Working full time in the sports & aquatic industry
 - Looking for work in **Web Development** or **Data Science** fields 
-- Working on my own App covering **Android, iPhone, Express, Python & React**
+- Working on my own App covering **Kotlin, Swift, NextJS, Python & React**
 
+## View my resume [Here](https://chris-mkelly.com)
 
 ## Used Technologys
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -17,6 +18,8 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift)
+![Kotlin](https://img.shields.io/badge/-Kotlin-FCA121?style=flat&logo=Kotlin)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
 ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)
@@ -27,7 +30,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)
 
 
-## Some of my past projects
+## Some of my past university projects
 ### Futher Web Progamming (![React](https://img.shields.io/badge/-React-black?style=flat&logo=react), ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js), ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express), ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql))
 https://github.com/Auzzzz/FWP_A2
 
