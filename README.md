@@ -4,8 +4,8 @@
 - Working full time in the sports & aquatic industry as a team leader
 - Looking for work in **Web Development** or **Data Science** type of fields 
 - Currently working on 'Checkout' (NextJS, ExpressJS, FusionAuth & Docker)
-  https://github.com/Auzzzz/checkout_web
-  https://github.com/Auzzzz/checkout_api
+  - https://github.com/Auzzzz/checkout_web
+  - https://github.com/Auzzzz/checkout_api
 
 ## View my resume [Here](https://chris-mkelly.com)
 
